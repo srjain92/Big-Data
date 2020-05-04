@@ -2,8 +2,8 @@ import boto3
 from botocore.client import Config
 import os
 
-ACCESS_KEY_ID = "AKIAZK3GCG7V5SAOA2HN"
-ACCESS_SECRET_KEY = "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"
+ACCESS_KEY_ID = "Access Key"
+ACCESS_SECRET_KEY = "Secret Key"
 BUCKET_NAME = "sj-databricks"
 
 data = open("C:\\Users\\Saurabh.Jain\\Desktop\\Amazon.csv", 'rb')
